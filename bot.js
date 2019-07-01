@@ -127,10 +127,6 @@ ${prefix}deletecolors <number> / لحذف الالوان
 **
    `,`
 =.=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.=.
-welcome يتم الترحيب فى روم باسم
-G.setwelcomer <Welcome> لاختيار روم للترحيب
-${prefix}voiceonline / لتفعيل روم الفويس اونلاين
-**
    
 `]
     let page = 1;
